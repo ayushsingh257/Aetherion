@@ -1,0 +1,10 @@
+AETHERION FINDINGS
+
+Phase 1
+Project Planning & Repository Architecture
+
+Status:
+Completed
+
+Notes:
+Initial repository structure created.
